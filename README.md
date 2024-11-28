@@ -14,3 +14,5 @@ Project Structure
  - style.css: The stylesheet for styling the page, including the gallery and search box.
  - index.js: The JavaScript file that handles the search logic and interaction with the DOM.
  - images/: A folder containing sample images used in the gallery (You can replace these with your own images).
+
+![image gallery](https://github.com/user-attachments/assets/d2109330-f7ce-4ddd-a88f-ff35c3a0015d)
